@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    --tw-bg-opacity: 1;
+    background-image: linear-gradient(to right top, #053337, #006158, #009161, #3dc14f, #a8eb12);
+    
+}
